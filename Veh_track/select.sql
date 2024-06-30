@@ -1,0 +1,1 @@
+select * From gps_summary_imm;
